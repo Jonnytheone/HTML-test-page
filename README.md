@@ -1,6 +1,6 @@
 # HTML-test-page
-A repository where i will save the html and css files that i created.
+A repository where I will save the html and css files that I created.
 
-AT the time of writing this, i have two files: a html file and a css file. This is subject to change.
+At the time of writing this, I have two files: a html file and a css file. This is subject to change.
 
 -Jonny
