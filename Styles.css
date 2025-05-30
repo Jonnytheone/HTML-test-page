@@ -1,0 +1,92 @@
+/* Text */
+h2 {
+    font-weight: bold;
+}
+.divider {
+    border: 1px solid rgb(64, 64, 64);
+}
+body {
+    background-color: rgb(200,200,200);
+    margin: 5%;
+}
+.divider-2 {
+    border: 1px solid rgb(64, 64, 64);
+    margin-top: 15px;
+}
+h2 {
+    font-family:'Times New Roman', serif;
+}
+.Lorem {
+    font-size: 17px;
+    border: 1px solid black;
+    padding: 5px;
+}
+#label {
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Roboto;
+    padding: 4px 2px 4px 10px;
+}
+.divider-3 {
+    border: 1px solid rgb(64, 64, 64);
+    margin-top: 15px;
+}
+#topimage {
+    margin: 0 0 0 150px;
+    width: 500px;
+    height: 50px;
+}
+h5 {
+    text-decoration: underline;
+    color: #0000EE;
+    font-size: 18px;
+}
+
+/* link changes */
+:link { 
+    color: #0000EE
+}
+:link:visited { 
+    color: #0000EE
+}
+:link:hover { 
+    color: #004EEE
+}
+table, th, td {
+    border: 1px solid black;
+}
+.gallery {
+    display: flex;
+}
+#gall {
+    border: 3px solid black;
+}
+
+/* Button configuration */
+.btn-outline-primary:hover {
+    border: 2px solid darkblue;
+}
+.btn-outline-secondary:hover {
+    border: 2px solid darkgray;
+}
+.btn-outline-success:hover {
+    border: 2px solid darkgreen;
+}
+.btn-outline-danger:hover {
+    border: 2px solid darkred;
+}
+.btn-outline-warning:hover {
+    border: 2px solid darkgoldenrod;
+}
+.btn-outline-info:hover {
+    border: 2px solid darkcyan;
+}
+.btn-outline-light:hover {
+    border: 2px solid black;
+}
+.btn-outline-dark:hover {
+    border: 2px solid white;
+}
+[class*="btn-"] {
+    margin: 3px;
+}
